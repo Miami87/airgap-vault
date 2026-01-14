@@ -42,7 +42,7 @@
     "@airgap/coinlib-core": "0.13.5",
     "@airgap/sapling-wasm": "0.0.7",
     "@angular/common": "13.2.5",
-    "@angular/core": "13.2.5",
+    "@angular/core": "19.2.18",
     "@angular/forms": "13.2.5",
     "@angular/platform-browser": "13.2.5",
     "@angular/platform-browser-dynamic": "13.2.5",
